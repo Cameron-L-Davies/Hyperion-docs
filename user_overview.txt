@@ -1,0 +1,22 @@
+----------admin----------
+Total tasks assigned to user:							2
+User tasks as a percentage of total tasks:				40.0%
+Completed tasks as a percentage of users total tasks:	0.0%
+Incomplete tasks as a percentage of users total tasks:	100.0%
+Overdue tasks as a percentage of users total tasks:		100.0%
+----------cam----------
+Total tasks assigned to user:							2
+User tasks as a percentage of total tasks:				40.0%
+Completed tasks as a percentage of users total tasks:	50.0%
+Incomplete tasks as a percentage of users total tasks:	50.0%
+Overdue tasks as a percentage of users total tasks:		50.0%
+----------cammy----------
+Total tasks assigned to user:							0
+----------test----------
+Total tasks assigned to user:							0
+----------bel----------
+Total tasks assigned to user:							1
+User tasks as a percentage of total tasks:				20.0%
+Completed tasks as a percentage of users total tasks:	0.0%
+Incomplete tasks as a percentage of users total tasks:	100.0%
+Overdue tasks as a percentage of users total tasks:		0.0%
